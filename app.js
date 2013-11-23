@@ -45,7 +45,7 @@ var yiyo = io.listen(server);
 
 
 yiyo.sockets.on('connection', function (socket) {
-    socket.emit('message', { message: 'welcome to the chat' });
+    socket.emit('message', { message: 'welcome to the chora chori chat :D' });
     socket.on('send', function (data) {
         yiyo.sockets.emit('message', data);
     });
