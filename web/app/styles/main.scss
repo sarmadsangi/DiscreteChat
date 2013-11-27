@@ -1,0 +1,25 @@
+/* app css stylesheet */
+@import 'lib/foundation';
+@import 'lib/normalize';
+
+body {
+	color : gray;
+}
+
+.overflowable {
+  height: 350px;
+  overflow-y: auto;
+  border: 1px solid #F3F3F3;
+
+  	p {
+ 		margin: 0;
+	}
+}
+
+.col {
+  float: left;
+}
+
+.clr {
+  clear: both;
+}

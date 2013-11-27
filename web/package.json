@@ -1,0 +1,22 @@
+{
+  "name": "descreteChat",
+  "author": "sarmadsangi",
+  "version": "0.0.1",
+
+
+  "dependencies": {
+    "express": "latest"
+    },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.4.1",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*"
+  },
+  "engines": {
+    "node": ">=0.10.21"
+  }
+}
