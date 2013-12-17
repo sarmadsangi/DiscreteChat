@@ -5,7 +5,8 @@
 
 
   "dependencies": {
-    "express": "latest"
+     "express": "latest"
+    ,"express3-handlebars": "*"
     },
   "devDependencies": {
     "grunt": "~0.4.1",
