@@ -1,0 +1,31 @@
+{
+  "name": "descreteChat",
+  "author": "sarmadsangi",
+  "version": "0.0.1",
+
+
+  "dependencies": {
+    "express": "latest",
+    "express3-handlebars": "*",
+    "jade": "*",
+    "mongodb": "*",
+    "nodemon": "*",
+    "passport": "*",
+    "passport-local": "*",
+    "passport-facebook": "*",
+    "mongoose": "~3.6.4",
+    "connect-flash": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.4.1",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*"
+  },
+  "engines": {
+    "node": ">=0.10.21"
+  }
+}
