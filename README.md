@@ -5,16 +5,16 @@ Discrete Chat is currently work in progress, once done you will be amazed. initi
 
 ### What does the project contains ?
 
-1. Chat Server (server dir)
-2. Web Chat Client (web dir)
+1. Chat Server (ChatServer dir)
+2. Web Chat Client (WebServer dir)
 
 Chat server is a Nodejs server running socketio. While web chat client is composed of angularjs, requirejs, socketio, grunt and sass.
 
 ### Usage
 
 1. Clone `git clone https://github.com/sarmadsangi/DiscreteChat.git`.
-2. Start Chat Server, goto server dir `npm install` and `node app`.
-3. Start Web Client, goto web dir `npm install` and `node app`.
+2. Start Chat Server, goto ChatServer dir `npm install` and `node app`.
+3. Start Web Client, goto WebServer dir `npm install` and `node app`.
 4. Thats all, we are done. Now goto `http://localhost:5000` and enjoy Chatting.
 
 
